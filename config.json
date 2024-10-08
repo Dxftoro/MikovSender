@@ -1,0 +1,11 @@
+{
+    "sender": "",
+    "receiver": "mikov.edu@gmail.com",
+    "app_password": "",
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "group": 24,
+    "subgroup": 0,
+
+    "description": "Отсчёт по лабораторной работе."
+}
